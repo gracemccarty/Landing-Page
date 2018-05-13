@@ -26,12 +26,13 @@ body{
 
 
 .cardz {
-	padding: 50px;
-	padding-right: 15px;
+	padding: 5px;
 	border: dashed;
 	border-radius: 50px;
 	border-color: grey;
-	margin: 30px;
+	margin: 10px;
+	text-align: center; 
+
 
 }
 
